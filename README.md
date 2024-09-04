@@ -34,6 +34,10 @@
 
 ###
 
+<h3 align="left"><a href="https://github.com/vtr-delfino/PbiProjects">Check out the Projects i've made</a></h3>
+
+###
+
 <p align="left">Connect with me:</p>
 
 ###
